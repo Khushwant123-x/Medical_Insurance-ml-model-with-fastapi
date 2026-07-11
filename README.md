@@ -1,1 +1,1 @@
-First I built model with r2_score 80% with Linear Regression and then I used XGBOOST on data .I got 86% approx r2_score. then I download model and write fastapi restapi. And I used gemini-3.5 for making ui design for my project.
+
